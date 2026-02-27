@@ -2,4 +2,4 @@
 
 Paper can be found under "paper_llm_judges_are_unreliable.pdf"
 
-Data will be uploaded upon arXiv acceptance.
+Human labeled judge data available as: 'a_coinflip_judge_data.csv'
