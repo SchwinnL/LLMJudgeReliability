@@ -1,5 +1,9 @@
 # LLMJudgeReliability
 
-Paper can be found under "paper_llm_judges_are_unreliable.pdf"
 
-Human labeled judge data available as: 'a_coinflip_judge_data.csv'
+Repository for the paper: A Coin Flip for Safety: LLM Judges Fail to Reliably Measure Adversarial Robustness
+Arxiv: https://arxiv.org/abs/2603.06594
+
+Datasets are available in the repository and on Huggingface:
+
+https://huggingface.co/collections/ASSELab/coinflipforsafety
